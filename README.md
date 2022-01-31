@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amoral97
+- 👋 Hi, I’m Adan!
 - 👀 I’m interested in machine learning, data science, and game development.
 - 🌱 I’m currently learning React javascript and Python programming.
 - 📫 How to reach me: amorales97@live.com
